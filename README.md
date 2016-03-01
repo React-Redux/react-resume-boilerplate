@@ -40,7 +40,7 @@ Each level in the React component tree has its own directory. The component in e
 ```
 
 ### Rendering
-While the dev server is running, the resume/cover letter can be rendered to PDF with ``npm run pdf``. This the output is saved to ./dist/:companyName, where companyName is defined in coverLetter.json. The resume can also be built into a self-contained javascript file with ``npm run build``. The output is saved to ./dist/bundle.js
+While the dev server is running, the resume/cover letter can be rendered to PDF with ``npm run pdf``. This the output is saved to ./dist/:companyName, where companyName is defined in coverLetter.json. The resume can also be built into a self-contained javascript file with ``npm run build``. The output is saved to ./dist/:companyName/bundle.js with resource files saved in the same directory.
 
 ## Best practices
 
