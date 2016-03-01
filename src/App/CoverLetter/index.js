@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 
 import * as styles from './styles.css'
 import coverLetter from 'shared/content/coverLetter'
+import { basics } from 'shared/content/resume'
 import Header from 'shared/Header'
 import signature from './signature.png'
 
@@ -33,7 +34,7 @@ const CoverLetter = ({location, recipient, paragraphs}) =>
 		<p className={styles.line}>Best regards,</p>
 		<img className={styles.signature} src={signature} />
 
-		<p>Chris Bala</p>
+		<p>{basics.name}</p>
 	</div>
 
 export default class Container extends Component {
