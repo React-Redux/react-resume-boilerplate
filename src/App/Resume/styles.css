@@ -1,0 +1,43 @@
+.date {
+	width: auto;
+	float: right;
+	text-align: right;
+	margin: 0;
+	position: relative;
+}
+
+.break {
+	border-bottom: 1px solid #666;
+}
+
+.sectionContent {
+	width: 630px;
+}
+
+.gridList {
+	width: 630px;
+}
+
+.gridList ul {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.gridListColumn {
+	display: inline-block;
+	margin-right: 60px;
+}
+
+.gridList li {
+	display: block;
+}
+
+.space {
+	width: 50px;
+}
+
+.headerDetail {
+	margin-left: 5px;
+	font-style: italic;
+	font-weight: normal;
+}

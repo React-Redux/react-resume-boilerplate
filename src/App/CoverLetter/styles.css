@@ -1,0 +1,27 @@
+.location {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.location p {
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+.line {
+	margin-bottom: 10px;
+}
+
+.paragraph {
+	margin-bottom: 10px;
+	text-indent: 25px;
+	max-width: 600px;
+}
+
+.signature {
+	max-height: 50px;
+}
+
+.space {
+	padding-top: 5px;
+}

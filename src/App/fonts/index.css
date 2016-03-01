@@ -1,0 +1,10 @@
+@font-face {
+	font-family: glober;
+	src: url(./Glober Thin.otf);
+}
+
+@font-face {
+	font-family: glober;
+	src: url(./Glober SemiBold.otf);
+	font-weight: bold;
+}

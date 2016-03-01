@@ -1,0 +1,54 @@
+{
+  "name": "react-resume-boilerplate",
+  "version": "1.0.0",
+  "description": "react-resume-boilerplate is a way to jump start writing your resume and cover letter in HTML and CSS",
+  "scripts": {
+    "clean": "rimraf dist",
+    "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.config.prod.js",
+    "build": "npm run build:webpack",
+    "start": "node devServer.js",
+    "lint": "eslint src",
+    "pdf": "node renderToPDF"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrbala/react-resume-boilerplate"
+  },
+  "keywords": [
+    "resume",
+    "react",
+    "boilerplate"
+  ],
+  "author": "Chris Bala",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "6.4.5",
+    "babel-eslint": "4.1.8",
+    "babel-loader": "6.2.1",
+    "babel-polyfill": "6.3.14",
+    "babel-preset-es2015": "6.3.13",
+    "babel-preset-react": "6.3.13",
+    "babel-preset-react-hmre": "1.1.0",
+    "babel-preset-stage-0": "6.3.13",
+    "cross-env": "1.0.7",
+    "css-loader": "0.23.1",
+    "eslint": "1.10.3",
+    "eslint-plugin-babel": "3.0.0",
+    "eslint-plugin-react": "3.16.1",
+    "eventsource-polyfill": "0.9.6",
+    "express": "4.13.4",
+    "file-loader": "0.8.5",
+    "image-webpack-loader": "1.6.3",
+    "json-loader": "0.5.4",
+    "phantomjs-prebuilt": "2.1.3",
+    "raw-loader": "0.5.1",
+    "react": "0.14.7",
+    "react-dom": "0.14.7",
+    "react-router": "2.0.0-rc5",
+    "rimraf": "2.5.1",
+    "style-loader": "0.13.0",
+    "webpack": "1.12.12",
+    "webpack-dev-middleware": "1.5.1",
+    "webpack-hot-middleware": "2.6.4"
+  }
+}

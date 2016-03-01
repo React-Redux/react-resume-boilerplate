@@ -1,0 +1,16 @@
+{
+	"companyName": "COMPANY_NAME",
+	"location": {
+		"address": "ADDRESS",
+		"postalCode": "POSTAL CODE",
+		"city": "CITY",
+		"countryCode": "COUNTRY CODE",
+		"region": "REGION"
+	},
+	"recipient": "Hiring Manager",
+	"paragraphs": [
+		"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut eros porttitor, pretium lectus a, gravida urna. Nulla libero felis, dignissim at pretium sed, aliquam ut sem. Nulla mollis ante ac magna convallis lobortis. Praesent tincidunt quis nisi vel scelerisque. Phasellus justo nisl, elementum vel facilisis vel, porttitor at dui. Donec faucibus quis ante vitae pulvinar. Ut convallis dapibus lorem sed posuere.",
+		"Aliquam ut erat ac risus commodo lacinia. Donec eleifend purus dolor, in pulvinar sapien ullamcorper vitae. Nulla facilisi. Nunc vel tempus lectus. Donec facilisis sem eu euismod sagittis. Quisque nec metus quis tortor blandit dignissim. Phasellus vel elit vitae ante porttitor tempus. In ac venenatis dui. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec accumsan a ante vitae euismod.",
+		"Praesent congue ut magna non egestas. Aenean sagittis, orci at placerat tristique, orci nunc laoreet lacus, id porttitor ex lacus in justo. Nullam nibh risus, vulputate accumsan fringilla id, vestibulum non nunc. Nullam ut varius ante. Donec accumsan, sem ac dictum pharetra, quam erat mollis nibh, eget rutrum urna purus quis felis. Nam eu ex odio. Proin id nisi fermentum, ultricies nunc sed, efficitur sapien. Donec tristique interdum lorem ut pharetra. Quisque sit amet sapien mi. Vivamus congue euismod imperdiet. Aenean volutpat nulla ut rhoncus sagittis. Cras hendrerit sagittis nunc, at malesuada orci."
+	]
+}
